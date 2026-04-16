@@ -13,3 +13,6 @@
 13) Update linktree
 14) Fix mobile layout
 15) Tidy up code
+16) Improve colour contrast for accessability (greys and blacks working together)
+17) Potential re-brand? D/D, D/DESIGN ./D
+18) Update footer bar across ALL pages
