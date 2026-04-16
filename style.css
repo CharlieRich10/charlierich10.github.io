@@ -248,11 +248,14 @@ body {
   position: fixed;
   left: 0;
   bottom: 0;
+  max-width: 100vh;
 }
 
 #bottombar {
-  padding-left: 1vw;
-  width: 100%;
+  font-family: "Jost";
+  color: rgb(66, 66, 66);
+  font-style: italic;
+  max-width: 100vh;
 }
 
 #bottombar a {
