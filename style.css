@@ -35,7 +35,9 @@
 /* Body & All Content */
 
 body {
-    background-color: rgb(27, 27, 27);
+    background-image: linear-gradient(to bottom, #E8E8E8, #6DD8FF);
+    background-attachment: fixed;
+    background-size: cover;
     min-height: 100vh;
 }
 
@@ -82,13 +84,13 @@ body {
 
 .top h2 {
     font-family: "Jost";
-    color: aliceblue;
+    color: rgb(66, 66, 66);
     display: inline;
 }
 
 .top h3 {
     font-family: "Jost";
-    color: aliceblue;
+    color: rgb(66, 66, 66);
     display: inline;
 }
 
@@ -96,7 +98,7 @@ body {
 #toplink {
     text-decoration: none;
     font-family: "Jost";
-    color: aliceblue;
+    color: rgb(66, 66, 66);
     display: inline;
     padding-left: 1vw;
     float: right;
@@ -110,7 +112,7 @@ body {
 #istlink {
     text-decoration: none;
     font-family: "Jost";
-    color: aliceblue;
+    color: rgb(66, 66, 66);
     display: inline;
     float: left;
 }
@@ -148,12 +150,12 @@ body {
 
 .main {
     padding-top: 5vw;
-    color: aliceblue;
+    color: rgb(66, 66, 66);
     font-family: "Jost";
 }
 
 .main a {
-    color: aliceblue;
+    color: rgb(66, 66, 66);
     text-decoration: underline;
 }
 
